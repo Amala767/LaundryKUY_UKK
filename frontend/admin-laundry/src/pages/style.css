@@ -1,0 +1,42 @@
+.formulir-member .text-tambah {
+    color: #4a2f16;
+}
+
+.modal-body .button-simpan{
+    background-color: #0E275B;
+    color: white;
+}
+
+.useredit img{
+    width: 120px;
+    height: 120px;
+}
+
+.pakettambah img{
+    width: 120px;
+    height: 120px;
+}
+
+.tangantransaksi img{
+    width: 120px;
+    height: 120px;
+}
+
+.btn-success a.text-white {
+    background-color: #28A745;
+}
+
+.transaksi .tabel-transaksi{
+    border-left: 6px solid #0E275B;
+    border-bottom: 2px solid #000000;
+
+}
+
+.transaksi .dash{
+    border: #28A745 !important;
+}
+
+.formtransaksi img{
+    width: 200px;
+    height: 180px;
+}

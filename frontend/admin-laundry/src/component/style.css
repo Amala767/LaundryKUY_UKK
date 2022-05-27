@@ -1,0 +1,39 @@
+.transaksi .card-body {
+    border-left: 4px solid #164a16 !important;
+    border-radius: 10px;
+}
+
+.paket .card{
+    border-top: 4px solid #040c2e !important;
+}
+
+.member .card-body{
+    border-left: 4px solid #040c2e;
+    border-radius: 5px;
+}
+
+/*bagian navbar*/
+    ul li{
+        display: inline-block;
+        line-height: 30px;
+        margin: 0 2px;
+    }
+    ul li a{
+        color: #000000 !important;
+        font-weight: 500;
+        font-size: 20px;
+        padding: 7px 0px;
+        border-radius: 3px;
+    }
+    a.active,a:hover,a:focus{
+        background: #191970;
+        color:white !important;
+    }
+    label.logo{
+        color: #191970 !important;
+        font-size: 25px;
+        line-height: 30px;
+        padding: 0 9px;
+        font-weight: 800;
+        font-family: 'Poppins', sans-serif;
+    }
